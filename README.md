@@ -1,2 +1,2 @@
-# ML_Tytanic
-Solve Tytanic kaggle problem unsing python,pandas,Scikit Learn
+# ML_Titanic
+Solve Titanic kaggle problem unsing python,pandas,Scikit Learn
